@@ -14,7 +14,7 @@ After that, I started my Business Intelligence career at another Mexican bank (B
 
 Because i like videogame programming too, my next job was in an small company as a Unity 3D video game programmer, my role was to develop marketing applications and small games for both mobile and desktop, using Unity engine, and also publish them on google playstore and apple appstore.
 
-Some of the apps i did:
+Some of the apps i developed:
 
 -[AR using Vuforia and Unity](https://play.google.com/store/apps/details?id=com.WTLabs.DazAR)
 
