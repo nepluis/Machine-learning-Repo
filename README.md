@@ -12,7 +12,7 @@ During my professional life I have worked in diferent fields regarding computer 
 
 After that, I started my Business Intelligence career at another Mexican bank: [Banjercito](https://www.gob.mx/banjercito#9977) using Qliktech software, Helping to create dashboards for business areas such as marketing, credit and sales. This was my first approach to BI and ETL development areas.
 
-Because i like videogame programming too, my next job was in an small company as a Unity 3D video game programmer, my role was to develop marketing applications and small games for both mobile and desktop, using Unity engine, and also publish them on google playstore and apple appstore.
+Because i like videogame programming too, my next job was in an small company called [WTRON](https://www.w-tron.com.mx/) as a Unity 3D video game programmer, my role was to develop marketing applications and small games for both mobile and desktop, using Unity engine, and also publish them on google playstore and apple appstore.
 
 Some of the apps i developed:
 
