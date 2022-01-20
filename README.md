@@ -27,3 +27,5 @@ Lastly, my current job is being an ETL senior consultant for a American company 
 # Machine learning projects
 
 [Recommendation using spark ALS](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Recommendation)
+
+[Help Desk multi classifier using NN](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Help_desk_multi_classifier)
