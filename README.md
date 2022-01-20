@@ -34,6 +34,8 @@ Recommendation project me and my work companions did for my older company, the p
 
 One of my first practices using Tensorflow and Keras, The problem to solve was that the help desk area was being overwhelmed with issues from users from the company and they manually needed to read each request to determine which area should take care of it, so this model used NN and NLP to automatically classify each request and determine the corresponding area to attend the issue.
 
+[Classification using Random Forest]
+
 [NLP Practices](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/NLP)
 
 Some basic NLP practices that I did when starting into processing data, these ones use functions like bigrams, remove stopwords and so on to clean text from different sources and do basic analysis on the results.
