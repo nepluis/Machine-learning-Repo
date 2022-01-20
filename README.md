@@ -10,7 +10,7 @@ I also like to do videogame programming on my free time, using Unity 3D engine.
 
 During my professional life I have worked in diferent fields regarding computer programming, starting as a tester for a mexican bank: [Citi Banamex](https://www.banamex.com/), Then i was promoted to an analyst position in the same copmany.
 
-After that, I started my Business Intelligence career at another Mexican bank: [Banjercito](https://www.gob.mx/banjercito#9977) using Qliktech software, Helping to create dashboards for business areas such as marketing, credit and sales. This was my first approach to BI and ETL development areas.
+After that, I started my Business Intelligence career at another Mexican bank: [Banjercito](https://www.gob.mx/banjercito#9977) using Qliktech software (Qlik view, Qlik sense, Qlik scrip module), Helping to create dashboards for business areas such as marketing, credit and sales. This was my first approach to BI and ETL development areas.
 
 Because i like videogame programming too, my next job was in an small company called [WTRON](https://www.w-tron.com.mx/) as a Unity 3D video game programmer, my role was to develop marketing applications and small games for both mobile and desktop, using Unity engine, and also publish them on google playstore and apple appstore.
 
