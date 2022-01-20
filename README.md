@@ -2,7 +2,7 @@
 
 # A little bit about myself
 
-Hello my name is Luis Alberto Sosa, Born in México and living on Toronto ON right now. I graduated from system computer engineer career at México Instituto Politécnico Nacional university in 2013 and now I am studying an A.I. postgraduate program at [George Brown College](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431).
+Hello my name is Luis Alberto Sosa, Born in México and living in Toronto ON right now. I graduated from system computer engineer career at México Instituto Politécnico Nacional university in 2013 and now I am studying an A.I. postgraduate program at [George Brown College](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431).
 
 I also like to do videogame programming on my free time, using Unity 3D engine. 
 
