@@ -27,10 +27,13 @@ Lastly, my current job is being an ETL senior consultant for a American company 
 # Machine learning projects
 
 [Recommendation using spark ALS](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Recommendation)
+
 Recommendation project me and my work companions did for my older company, the problem to solve was that the marketing area needed to update their website and create email campaigns more personalized to the users (like some popular e-commerce sites), so we used as the source data all the sales from 5 years and trained a machine learning model using SPARK ALS to get recommendations for both users and products. Lastly, we used the output data to create a Power BI dashboard for the area to use and search the customer information (email, state, etc.)
 
 [Help Desk multi classifier using NN](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Help_desk_multi_classifier)
+
 One of my first practices using Tensorflow and Keras, The problem to solve was that the help desk area was being overwhelmed with issues from users from the company and they manually needed to read each request to determine which area should take care of it, so this model used NN and NLP to automatically classify each request and determine the corresponding area to attend the issue.
 
 [NLP Practices](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/NLP)
+
 Some basic NLP practices that I did when starting into processing data, these ones use functions like bigrams, remove stopwords and so on to clean text from different sources and do basic analysis on the results.
