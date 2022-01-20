@@ -34,7 +34,15 @@ Recommendation project me and my work companions did for my older company, the p
 
 One of my first practices using Tensorflow and Keras, The problem to solve was that the help desk area was being overwhelmed with issues from users from the company and they manually needed to read each request to determine which area should take care of it, so this model used NN and NLP to automatically classify each request and determine the corresponding area to attend the issue.
 
-[Classification using Random Forest]
+[Classification using Random Forest](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Game_ratings_classifier)
+
+Project for my George Brown College Math class.
+Basic classification model using Random Forest to classify games genres using the following kaggle data source:
+https://www.kaggle.com/imohtn/video-games-rating-by-esrb
+[Link:](https://user-images.githubusercontent.com/74278388/150438541-ef3debb7-acd0-488e-9dc7-2113589a1c7c.png)
+
+
+
 
 [NLP Practices](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/NLP)
 
