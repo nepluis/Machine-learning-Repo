@@ -1,0 +1,6 @@
+Project for my George Brown College Math class.
+
+Basic classification model using Random Forest to classify games genres using the following kaggle data source:
+
+https://www.kaggle.com/imohtn/video-games-rating-by-esrb
+
