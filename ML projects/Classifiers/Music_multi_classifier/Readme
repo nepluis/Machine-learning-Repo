@@ -4,4 +4,5 @@ This is a multiclassifier using Neural networks and both thecniques label encodi
 
 The data set used was (GTZAN dataset)[https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification/activity]
 
-I used the code from this (article)[https://blog.clairvoyantsoft.com/music-genre-classification-using-cnn-ef9461553726] as a base and add the One Hot encoding part and also the get features part for test new songs.
+I used the code from this (article)[https://blog.clairvoyantsoft.com/music-genre-classification-using-cnn-ef9461553726] 
+as a base and add the One Hot encoding part and also the get features part for test new songs.
