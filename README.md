@@ -34,6 +34,13 @@ Recommendation project me and my work companions did for my older company, the p
 
 One of my first practices using Tensorflow and Keras, The problem to solve was that the help desk area was being overwhelmed with issues from users from the company and they manually needed to read each request to determine which area should take care of it, so this model used NN and NLP to automatically classify each request and determine the corresponding area to attend the issue.
 
+[Music multi classifier using NN](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Music_multi_classifier)
+
+Multiclassifier using Neural networks for George Brown Deep learning class. Compairing both label encoding and One Hot encoding to analyze the results.
+This Neural nwtwork analize the test songs features extracted using Librosa library and returns the percentage of the song genre by each genre available on the train set.
+The data set used was [GTZAN dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification/activity)
+I used the code from this [article](https://blog.clairvoyantsoft.com/music-genre-classification-using-cnn-ef9461553726)
+
 [Classification using Random Forest](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Game_ratings_classifier)
 
 Project for my George Brown College Math class.
