@@ -39,7 +39,6 @@ One of my first practices using Tensorflow and Keras, The problem to solve was t
 Multiclassifier using Neural networks for George Brown Deep learning class. Compairing both label encoding and One Hot encoding to analyze the results.
 This Neural nwtwork analize the test songs features extracted using Librosa library and returns the percentage of the song genre by each genre available on the train set.
 The data set used was [GTZAN dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification/activity)
-I used the code from this [article](https://blog.clairvoyantsoft.com/music-genre-classification-using-cnn-ef9461553726)
 
 [Classification using Random Forest](https://github.com/nepluis/Machine-learning-Repo/tree/main/ML%20projects/Classifiers/Game_ratings_classifier)
 
